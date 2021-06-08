@@ -11,5 +11,5 @@ Studying software development, hardware.
 
 
 ## Contacts
-* Telegram - [@wannabe2ds](https://t.me/wananbe2ds)
+* Telegram - [@wannabe2ds](https://t.me/wannabe2ds)
 
