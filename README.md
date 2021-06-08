@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋
+## `whoami`
 
-<!--
-**WannaBe2D/WannaBe2D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Development | Computer Engineering Student
 
-Here are some ideas to get you started:
+## Stack
+![Python](https://img.shields.io/badge/-Python-3572a5?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-292961?style=flat-square&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.JS-026E00?style=flat-square&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-563d7c?style=flat-square&logo=css3&logoColor=white) ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-1793D1?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=flat-square&logo=github&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm keen on **GNU/Linux**, currently ok with **Python** and **JS**, worse with **Java**. I'm also learning **Dart**.
+Studying software development, hardware.
+
+
+## Contacts
+* Telegram - [@wannabe2ds](https://t.me/wananbe2ds)
+
